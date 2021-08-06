@@ -1,14 +1,14 @@
-> $ coyote --version
+`$ coyote --version`
 
 `Version: 1.3.1.0`
 
-> $ coyote rewrite .\CoyoteUnitTesting.Tests\bin\Debug\netcoreapp3.1\CoyoteUnitTesting.dll
+`$ coyote rewrite .\CoyoteUnitTesting.Tests\bin\Debug\netcoreapp3.1\CoyoteUnitTesting.dll`
 
-> $ dotnet --version
+`$ dotnet --version`
 
 `5.0.301`
 
-> $ dotnet test .\CoyoteUnitTesting.Tests\bin\Debug\netcoreapp3.1\CoyoteUnitTesting.Tests.dll
+`$ dotnet test .\CoyoteUnitTesting.Tests\bin\Debug\netcoreapp3.1\CoyoteUnitTesting.Tests.dll`
 
 ```
 Error Message:
